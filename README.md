@@ -1,4 +1,4 @@
-# IMP Protocol - $MONEY Token & Vault System 🚀
+# IMP Protocol - Vault System 🚀
 
 ## Overview
 
