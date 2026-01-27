@@ -10,3 +10,16 @@ redirects:
   leadership: leadership/8-rank-system.md
   contracts: contracts/addresses.md
   faq: faq/general.md
+
+# Multi-language support
+# Note: Language variants are best configured in GitBook dashboard
+# These folders provide the translated content:
+# - /es/ - Spanish (Español)
+# - /ar/ - Arabic (العربية)
+# - /hi/ - Hindi (हिन्दी)
+#
+# To enable variants in GitBook:
+# 1. Go to your space settings
+# 2. Click "Variants" 
+# 3. Add each language as a variant
+# 4. Set the content path to the language folder (e.g., /es/)
