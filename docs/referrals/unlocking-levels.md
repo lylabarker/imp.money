@@ -55,7 +55,11 @@ Not all 21 referral levels are available immediately. You unlock deeper levels b
 ## What is an "Active" Direct?
 
 A direct referral is considered **active** if they have:
-- Made a deposit that hasn't been fully withdrawn
+- Made a deposit of **$50 or more** that hasn't been fully withdrawn
+
+{% hint style="warning" %}
+**Important:** Only referrals with $50+ active deposits count as "active directs" for unlocking levels. Minimum $10 deposits help them earn but don't count toward your unlock requirements.
+{% endhint %}
 
 ## Unlock Strategy
 

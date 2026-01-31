@@ -1,18 +1,19 @@
-# 7-Rank Leadership Bonus System
+# 8-Rank Leadership Bonus System
 
 Beyond the 21-level referral commissions, top leaders earn additional bonuses on their entire downline's ROI claims - up to **100 levels deep**.
 
-## The 7 Ranks
+## The 8 Ranks
 
 | Rank | Bonus | Team Size | Business Volume |
 |------|-------|-----------|-----------------|
+| 👤 Affiliate | 0% | - | - |
 | ⭐ Star 1 | +1% | 100 members | $5,000 |
 | ⭐⭐ Star 2 | +2% | 200 members | $10,000 |
 | ⭐⭐⭐ Star 3 | +3% | 500 members | $25,000 |
 | ⭐⭐⭐⭐ Star 4 | +4% | 750 members | $50,000 |
 | ⭐⭐⭐⭐⭐ Star 5 | +5% | 1,000 members | $100,000 |
-| 👑 Kings Star | +7% | 2,500 members | $500,000 |
-| 👑👑 Master King | +0.5% extra | 10 Kings Stars | Network-wide |
+| 👑 King's Star | +7% | 2,500 members | $500,000 |
+| 🏆 Master King | +0.5% extra | 10 King's Stars | Network-wide |
 
 ## How It Works
 
@@ -61,26 +62,30 @@ This means:
 - $100,000 cumulative business volume
 - Bonus: 5% on downline ROI
 
-### Kings Star 👑
+### King's Star 👑
 - 2,500 team members total
 - $500,000 cumulative business volume
 - Bonus: 7% on downline ROI
 
-### Master King 👑👑
-- 10 Kings Stars in your direct/indirect network
+### Master King 🏆
+- 10 King's Stars in your direct/indirect network
 - Additional +0.5% on ALL network ROI
 - Highest possible rank
 
+{% hint style="info" %}
+**All users start as Affiliate (0%)** - you automatically progress through ranks as you build your team and meet the requirements.
+{% endhint %}
+
 ## Earnings Example
 
-You're a **Kings Star** with a large network:
+You're a **King's Star** with a large network:
 
 | Downline Rank | Their ROI Claim | Differential | Your Bonus |
 |---------------|-----------------|--------------|------------|
-| Unranked (0%) | $100 | 7% | $7.00 |
+| Affiliate (0%) | $100 | 7% | $7.00 |
 | Star 2 (2%) | $100 | 5% | $5.00 |
 | Star 5 (5%) | $100 | 2% | $2.00 |
-| Kings Star (7%) | $100 | 0% | $0 |
+| King's Star (7%) | $100 | 0% | $0 |
 
 ## Income Potential
 
@@ -90,7 +95,7 @@ Large networks with active members generate significant leadership income:
 |-----------|---------------------------|----------------------|
 | Star 3 | $50,000 | ~$1,500 |
 | Star 5 | $100,000 | ~$5,000 |
-| Kings Star | $500,000 | ~$35,000 |
+| King's Star | $500,000 | ~$35,000 |
 | Master King | $1,000,000 | ~$75,000 |
 
 *Varies based on downline rank distribution*

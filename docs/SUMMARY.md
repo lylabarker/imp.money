@@ -29,7 +29,7 @@
 
 ## Leadership Program
 
-* [7-Rank System](leadership/8-rank-system.md)
+* [8-Rank System](leadership/8-rank-system.md)
 * [Rank Requirements](leadership/requirements.md)
 * [Differential ROI Bonus](leadership/differential-bonus.md)
 * [Master King Rank](leadership/master-king.md)
