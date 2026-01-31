@@ -202,7 +202,7 @@ Scale faster with targeted ads.
 
 ### "Is this MLM/pyramid scheme?"
 
-> "The yield comes from real DeFi activity, not new deposits. The referral system is optional incentive. You can earn just from ROI without referring anyone. Network marketing isn't illegal — it's how many companies distribute. The difference is this has real underlying value."
+> "The yield comes from real DeFi activity, not new deposits. You need a referral link to join (everyone is part of a team), but you don't have to refer others to earn ROI — that's entirely up to you. Network marketing isn't illegal — it's how many companies distribute. The difference is this has real underlying value."
 
 ### "I don't have much money"
 

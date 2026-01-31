@@ -102,7 +102,7 @@ This confirms **no one controls the contract**.
 ### User Functions (Always Available)
 | Function | Description |
 |----------|-------------|
-| `deposit(amount, referrer)` | Deposit USDT with optional referrer |
+| `deposit(amount, referrer)` | Deposit USDT with referrer (required for new users) |
 | `claimYield(depositId)` | Claim accrued yield anytime |
 | `withdraw(depositId)` | Withdraw principal after 21 days |
 | `claimRewards()` | Claim referral + rank bonus rewards |
