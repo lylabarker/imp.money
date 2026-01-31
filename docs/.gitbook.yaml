@@ -11,6 +11,12 @@ redirects:
   contracts: contracts/addresses.md
   faq: faq/general.md
 
+# GitHub Integration
+# This documentation is synced from GitHub
+# Repository: https://github.com/imp-money/docs
+# Branch: main
+# Documentation will auto-update when changes are pushed to GitHub
+
 # Multi-language support
 # Note: Language variants are best configured in GitBook dashboard
 # These folders provide the translated content:
@@ -20,6 +26,6 @@ redirects:
 #
 # To enable variants in GitBook:
 # 1. Go to your space settings
-# 2. Click "Variants" 
+# 2. Click "Variants"
 # 3. Add each language as a variant
 # 4. Set the content path to the language folder (e.g., /es/)

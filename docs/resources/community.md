@@ -14,6 +14,21 @@ The main hub for IMP Money discussions.
 - Support from moderators
 - Connect with team leaders
 
+### 📢 Telegram Announcements
+Official announcements channel.
+
+**Link**: [t.me/officialimpmoney](https://t.me/officialimpmoney)
+
+### 🐦 Twitter / X
+Follow us for the latest updates and news.
+
+**Link**: [x.com/impmoneyproject](https://x.com/impmoneyproject)
+
+### 📺 YouTube
+Video tutorials, explainers, and community content.
+
+**Link**: [youtube.com/@theimpmoney](https://www.youtube.com/@theimpmoney)
+
 ### 🌐 Official Website
 The main platform for deposits, claims, and managing your account.
 

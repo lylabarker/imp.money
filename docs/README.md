@@ -36,9 +36,13 @@
 ### Links
 
 - 🌐 **Website**: [imp.money](https://imp.money)
-- 📱 **Telegram**: [t.me/impmoneychat](https://t.me/impmoneychat)
+- 📱 **Telegram Community**: [t.me/impmoneychat](https://t.me/impmoneychat)
+- 📢 **Telegram Announcements**: [t.me/officialimpmoney](https://t.me/officialimpmoney)
+- 🐦 **Twitter/X**: [x.com/impmoneyproject](https://x.com/impmoneyproject)
+- 📺 **YouTube**: [youtube.com/@theimpmoney](https://www.youtube.com/@theimpmoney)
 - 🛡️ **CertiK Audit**: [skynet.certik.com/projects/imp-money](https://skynet.certik.com/projects/imp-money)
 - 📊 **BSCScan**: [View Contracts](https://bscscan.com/address/0x3439aF4B86a419ad938CAbA8D0767a2a0eD4cE7C)
+- 📚 **Documentation (GitBook)**: [docs.imp.money](https://docs.imp.money)
 
 ---
 

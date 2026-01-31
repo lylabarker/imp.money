@@ -48,6 +48,10 @@
 * [Referrals & Commissions](faq/referrals.md)
 * [Troubleshooting](faq/troubleshooting.md)
 
+## Offers & Promotions
+
+* [🏆 February 2026 Contest](offers/february-2026-contest.md)
+
 ## Resources
 
 * [Whitepaper](resources/whitepaper.md)
