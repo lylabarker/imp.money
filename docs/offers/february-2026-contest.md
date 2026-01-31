@@ -1,6 +1,6 @@
-# 🏆 February 2026 Referral Contest
+# 🏆 February 2026 Business Contest
 
-**$7,500 Prize Pool** - Compete for cash rewards by growing your network!
+**$7,500 Prize Pool** - Compete for cash rewards by bringing in the most direct business!
 
 {% hint style="success" %}
 **Contest Period:** February 1-28, 2026
@@ -13,12 +13,16 @@
 
 | Position | Prize |
 |----------|-------|
-| 🥇 1st Place | $2,500 |
-| 🥈 2nd Place | $1,500 |
-| 🥉 3rd Place | $1,000 |
-| 4️⃣ 4th Place | $750 |
-| 5️⃣ 5th Place | $500 |
-| 6️⃣-🔟 Places 6-10 | $250 each |
+| 🥇 1st Place | $1,800 |
+| 🥈 2nd Place | $1,350 |
+| 🥉 3rd Place | $1,050 |
+| 4️⃣ 4th Place | $825 |
+| 5️⃣ 5th Place | $675 |
+| 6️⃣ 6th Place | $525 |
+| 7️⃣ 7th Place | $450 |
+| 8️⃣ 8th Place | $375 |
+| 9️⃣ 9th Place | $300 |
+| 🔟 10th Place | $150 |
 
 **Total Prize Pool: $7,500 USDT**
 
@@ -36,32 +40,35 @@ To participate in the contest:
 
 ## How Rankings Work
 
-Your contest score is calculated as:
+Your contest score is based on **Direct Business** — the total value of deposits you and your direct referrals bring in during February.
 
 ```
-YOUR SCORE = Your Deposits + Your Referrals' Deposits
+YOUR SCORE = Your Own Deposits + Your Direct Referrals' Deposits
 ```
+
+{% hint style="info" %}
+**Direct Referrals Only** — Only deposits from people who used YOUR referral link count. Deposits from your sub-team (Level 2+) do NOT count toward contest rankings.
+{% endhint %}
 
 ### Example
 
 | Activity | Amount |
 |----------|--------|
 | Your deposit | $500 |
-| Referral A deposits | $1,000 |
-| Referral B deposits | $300 |
+| Referral A deposits (direct) | $1,000 |
+| Referral B deposits (direct) | $300 |
 | **Your total score** | **$1,800** |
 
 ### What Counts ✅
 
-- Your personal deposits (minimum $10)
-- Your direct referrals' deposits
-- All deposits made during February 1-28, 2026
-- Deposits via your referral link
+- Your personal deposits during February
+- Deposits from your **direct referrals** (Level 1 only)
+- Fresh USDT deposits during February 1-28, 2026
 
 ### What Doesn't Count ❌
 
 - Deposits made before February 1
-- Deposits without referral link
+- Deposits from Level 2+ (sub-team)
 - Compounding (reinvesting earnings)
 - Withdrawals
 
