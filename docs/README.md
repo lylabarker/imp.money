@@ -1,6 +1,6 @@
 # IMP Money
 
-<figure><img src=".gitbook/assets/imp-logo.png" alt=""><figcaption><p>Internet Money Protocol</p></figcaption></figure>
+<figure><img src="assets/images/getting-started.png" alt="Get Started with IMP.Money"><figcaption><p>Internet Money Protocol - Your Gateway to DeFi Yield</p></figcaption></figure>
 
 ## Welcome to IMP Money
 

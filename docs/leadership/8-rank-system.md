@@ -1,5 +1,7 @@
 # 8-Rank Leadership Bonus System
 
+<figure><img src="../assets/images/leadership-ranks.png" alt="8 Rank System"><figcaption><p>Progress Through 8 Leadership Ranks - Up to 7.5% Bonus</p></figcaption></figure>
+
 Beyond the 21-level referral commissions, top leaders earn additional bonuses on their entire downline's ROI claims - up to **100 levels deep**.
 
 ## The 8 Ranks

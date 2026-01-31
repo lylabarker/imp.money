@@ -1,5 +1,7 @@
 # How ROI Works
 
+<figure><img src="../assets/images/yield-system.png" alt="0.7% Daily ROI"><figcaption><p>Earn 0.7% Daily - 21 Day Lock Period</p></figcaption></figure>
+
 IMP Money generates yield through automated liquidity provision. Here's the technical breakdown.
 
 ## The Source of Yield

@@ -1,5 +1,7 @@
 # Contract Addresses
 
+<figure><img src="../assets/images/security-contracts.png" alt="Security & Contracts"><figcaption><p>CertiK Audited • Ownership Renounced • Fully Verified</p></figcaption></figure>
+
 All IMP Money smart contracts are deployed on BNB Smart Chain (BSC) and are fully verified on BSCScan.
 
 ## Main Contracts

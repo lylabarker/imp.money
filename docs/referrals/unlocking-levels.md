@@ -1,5 +1,7 @@
 # Unlocking Levels
 
+<figure><img src="../assets/images/referral-network.png" alt="21 Level Referral Network"><figcaption><p>Build Your Network Across 21 Levels</p></figcaption></figure>
+
 Not all 21 referral levels are available immediately. You unlock deeper levels by increasing your deposit and building your direct team.
 
 ## Level Requirements

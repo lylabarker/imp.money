@@ -1,5 +1,7 @@
 # 🏆 February 2026 Business Contest
 
+<figure><img src="../assets/images/february-2026-contest.png" alt="February Direct Business Contest"><figcaption><p>$7,500 Prize Pool - Top 10 Win!</p></figcaption></figure>
+
 **$7,500 Prize Pool** - Compete for cash rewards by bringing in the most direct business!
 
 {% hint style="success" %}
